@@ -7,6 +7,7 @@ import { GRID_CARD_WIDTH } from 'config/sizes';
 import { PfpPlaceholder } from 'components/PfpPlaceholder';
 import { useGridContext } from 'components/virtualizedGrid/context';
 import { getPfpPlaceholder } from 'utils/pfp';
+import Banner from './Banner';
 import { BaseGridCard } from './BaseGridCard';
 
 const PIXEL_IMG =
@@ -26,7 +27,7 @@ export type PfpCardProps = {
 };
 
 export function PfpCard({ columnIndex, record, rowIndex }: PfpCardProps): JSX.Element {
-  const { image, name } = record;
+  const { image, mintAddress, name } = record;
   const themeId = useThemeId();
   const { cardHeight, cardWidth, raised } = useGridContext();
 
@@ -67,8 +68,9 @@ export function PfpCard({ columnIndex, record, rowIndex }: PfpCardProps): JSX.El
           visible={imageLoaded}
           width={GRID_CARD_WIDTH}
         />
+        <Banner mintAddress={mintAddress} />
       </PfpPlaceholder>
-      <Flex flexible alignItems="center" justifyContent="center">
+      <Flex flexible alignItems="center" justifyContent="space-around">
         <Typography<'div'> as="div" size="2xlarge" weight="bold">
           {name}
         </Typography>

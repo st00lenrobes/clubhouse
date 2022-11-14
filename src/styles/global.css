@@ -15,3 +15,13 @@ html,
 body {
   overscroll-behavior-y: contain;
 }
+
+img.me-link {
+  width: 34px;
+  height: 34px;
+  transition: 0.2s;
+}
+
+img.me-link:hover {
+  transform: scale(1.1);
+}
