@@ -30,7 +30,7 @@ jobs:
         run: yarn build-deps && yarn build
         env:
           NODE_ENV: production
-          PUBLIC_URL: https://n00trals.xyz
+          PUBLIC_URL: https://stolenrobes.xyz
 
       - name: Run tests
         run: yarn test --ci --coverage

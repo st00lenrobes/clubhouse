@@ -1,0 +1,16 @@
+{
+    "club": {
+        "name": "St0len Robes",
+        "description": "A club for all the stolen hotel robe y00ts",
+        "colors": [
+            "#F8FAE6",
+            "#DACDBA",
+            "#FEDD97"
+        ]
+    },
+    "traits": {
+        "Clothes": [
+            "Stolen Hotel Robe"
+        ]
+    }
+}

@@ -6,7 +6,7 @@ describe('<Header />', () => {
   it('should render the club name', () => {
     const { getByText } = render(<Header height={100} />);
 
-    expect(getByText('n00trals')).toBeTruthy();
+    expect(getByText('st00len Robe Dao')).toBeTruthy();
   });
 
   it('should render the icon', () => {

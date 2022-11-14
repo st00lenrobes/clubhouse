@@ -1,6 +1,7 @@
-# n00trals.xyz
+# stolenrobes.xyz
 
-This is the source of [https://n00trals.xyz](https://n00trals.xyz).
+This has been forked from [https://n00trals.xyz](https://n00trals.xyz).
+Huge props to them!
 
 ### Adapting for other clubs
 
@@ -9,6 +10,14 @@ This was built to work mostly out of the box with Netlify. Otherwise you'll need
 1. Choose "Fork > Create a new fork" from the button in the top right.
 2. In your forked repository make the following changes:
    - Copy [example.config.json](./example.config.json) to `config.json` and update it with your club's details and traits.
+     - Only include the minimum traits you want to be included E.g stolen robes only include
+   ```
+   "traits": {
+        "Clothes": [
+            "Stolen Hotel Robe"
+        ]
+    }
+   ```
    - Commit these changes to your repository's main branch
 
 #### If you're using Netlify
@@ -30,11 +39,11 @@ This was built to work mostly out of the box with Netlify. Otherwise you'll need
    - Key: `PUBLIC_URL`
    - Scopes: All scopes
    - Values: Different value for each deploy context
-     - Production: the URL of your club (eg. https://n00trals.xyz or https://n00trals.netlify.app/)
+     - Production: the URL of your club (eg. https://stolenrobes.xyz or https://stolenrobes.netlify.app/)
      - Local development: `http://localhost:8443`
      - Add a branch value
        - Branch name: `development`
-       - Value for branch development: the development URL of your club (eg. https://development--n00trals.netlify.app/)
+       - Value for branch development: the development URL of your club (eg. https://development--stolenrobes.netlify.app/)
 12. Go to the Deploys tab in the top navigation.
 13. Click "Trigger deploy" > "Deploy site".
 
@@ -46,3 +55,6 @@ This was built to work mostly out of the box with Netlify. Otherwise you'll need
 * Run `yarn generate-members` to generate your member list based on the traits.
 * Run `yarn build` to build the production app to `./build`.
 * Run `yarn start-express-dev` to run the development app on [http://localhost:8443/](http://localhost:8443/).
+
+#### System requirements
+* Running node >= v18 [https://nodejs.org/en/download/](https://nodejs.org/en/download/). 
