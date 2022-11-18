@@ -3,6 +3,7 @@
 This has been forked from [https://n00trals.xyz](https://n00trals.xyz).
 Huge props to them!
 
+Stolen Robes are a [y00ts](https://y00ts.com) clubhouse, with the specific clothes trait of "Stolen Hotel Robe".
 ### Adapting for other clubs
 
 This was built to work mostly out of the box with Netlify. Otherwise you'll need familiarity with building Javascript packages. We also recommend picking up a cheap domain at [Namecheap](https://www.namecheap.com/).
@@ -58,3 +59,12 @@ This was built to work mostly out of the box with Netlify. Otherwise you'll need
 
 #### System requirements
 * Running node >= v18 [https://nodejs.org/en/download/](https://nodejs.org/en/download/). 
+
+### Membership updates
+
+Until y00ts mints out, we have to scrape the `mintAddress` to show the "minted"/ME" banners.
+There is a Github workflow called [Membership](./.github/workflows/members.yml) that is scheduled to run twice a day, 12pm UTC (8am EST) and 12am UTC (8pm EST).
+If you need to make manual updates, you will need to run the `get-collection` script, followed by the `generate-members` script. 
+
+As this is scraping the y00ts API, we need to not overload requests.
+ **Please don't run this more than once an hour.**
