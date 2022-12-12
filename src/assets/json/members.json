@@ -253,12 +253,6 @@
   },
   {
     "name": "y00t #????",
-    "image": "https://static.y00ts.com/unminted/d97207b9-1d5a-4e80-bb7e-e4927c378e71.png",
-    "mintAddress": "",
-    "background": "Powder Puff"
-  },
-  {
-    "name": "y00t #????",
     "image": "https://static.y00ts.com/unminted/3d077ae0-bba3-41c8-93e2-351ff483f90f.png",
     "mintAddress": "",
     "background": "Cannoli Cream"
@@ -990,6 +984,12 @@
     "background": "Bit Of Blue"
   },
   {
+    "name": "y00t #5852",
+    "image": "https://metadata.y00ts.com/y/5851.png",
+    "mintAddress": "7dotdQeD5Udvhjbk1WmMcjW854FhYC4oD2kMpb4k6pS3",
+    "background": "Powder Puff"
+  },
+  {
     "name": "y00t #5970",
     "image": "https://metadata.y00ts.com/y/5969.png",
     "mintAddress": "EbYzW2ivHNk45ts2QgMH7QnGDvYKzws5adx5qi9v5sUU",
@@ -1642,6 +1642,12 @@
     "image": "https://metadata.y00ts.com/y/10715.png",
     "mintAddress": "HZkd5WC41b2yfvwMNZqr13kRjk7AQ3KJMLzMRLs7JV32",
     "background": "Snow White"
+  },
+  {
+    "name": "y00t #10755",
+    "image": "https://metadata.y00ts.com/y/10754.png",
+    "mintAddress": "DUZEPCLRYrHKvyAf6pi2LREVKsuFE7SxTwGgV9LKLXpz",
+    "background": "Phantom Green"
   },
   {
     "name": "y00t #10858",
