@@ -289,12 +289,6 @@
   },
   {
     "name": "y00t #????",
-    "image": "https://static.y00ts.com/unminted/96f93605-f0f8-4cb8-b000-8601c9fbeff2.png",
-    "mintAddress": "",
-    "background": "Antique White"
-  },
-  {
-    "name": "y00t #????",
     "image": "https://static.y00ts.com/unminted/0039048a-e39d-4a50-8b8e-6c88ab41a1de.png",
     "mintAddress": "",
     "background": "Snow White"
@@ -1054,6 +1048,12 @@
     "image": "https://metadata.y00ts.com/y/6287.png",
     "mintAddress": "BpWs4R6v5QDQ4UmDLG14LRm9RgfjdzHwvPzYQ5ZwCN6p",
     "background": "Cannoli Cream"
+  },
+  {
+    "name": "y00t #6317",
+    "image": "https://metadata.y00ts.com/y/6316.png",
+    "mintAddress": "WbzuFUSgBSwKKzaevJNSEhJYdHYEQtmp5aZVcoN3Um8",
+    "background": "Antique White"
   },
   {
     "name": "y00t #6387",
