@@ -157,12 +157,6 @@
   },
   {
     "name": "y00t #????",
-    "image": "https://static.y00ts.com/unminted/af339481-268a-437d-90c0-4c467a706de4.png",
-    "mintAddress": "",
-    "background": "Bit Of Blue"
-  },
-  {
-    "name": "y00t #????",
     "image": "https://static.y00ts.com/unminted/c0708668-a267-4451-add2-8548a2a1ed2f.png",
     "mintAddress": "",
     "background": "Marshmallow"
@@ -636,6 +630,12 @@
     "background": "Cannoli Cream"
   },
   {
+    "name": "y00t #2296",
+    "image": "https://metadata.y00ts.com/y/2295.png",
+    "mintAddress": "6RCQyYbT9jV9Z2afArFd191VHP4tsWHYxbxe9v8S6DHQ",
+    "background": "Bit Of Blue"
+  },
+  {
     "name": "y00t #2378",
     "image": "https://metadata.y00ts.com/y/2377.png",
     "mintAddress": "5rQqXHDpv6LMFg2r44EztoieB1gin8kSadJtwCR3Geop",
@@ -1092,6 +1092,12 @@
     "background": "Antique White"
   },
   {
+    "name": "y00t #6825",
+    "image": "https://metadata.y00ts.com/y/6824.png",
+    "mintAddress": "8mhF5aby7px6iDNVqp5WSsLb8w6ewtRbhh8y1egwCncE",
+    "background": "Buttercream"
+  },
+  {
     "name": "y00t #6851",
     "image": "https://metadata.y00ts.com/y/6850.png",
     "mintAddress": "6yhK3QgqoBfVRWFmkJvW6qsiMEy8XYxmPzF1JXx1efYL",
@@ -1156,12 +1162,6 @@
     "image": "https://metadata.y00ts.com/y/7535.png",
     "mintAddress": "Dach3wSSMWEwQ57xj7uoAB63zKoSPjE6bi9tAvA85wXU",
     "background": "Powder Puff"
-  },
-  {
-    "name": "y00t #7571",
-    "image": "https://metadata.y00ts.com/y/7570.png",
-    "mintAddress": "AsoiHWwXfkJWVYC1ytihDRcryyu5G9fuEXDQbnkWdr6h",
-    "background": "Bit Of Blue"
   },
   {
     "name": "y00t #7571",
@@ -1354,6 +1354,12 @@
     "image": "https://metadata.y00ts.com/y/8593.png",
     "mintAddress": "95VYHGU3U7ugwknZaHdM2D7jVwU2DR3GtQ5QA1RDp2jy",
     "background": "Marshmallow"
+  },
+  {
+    "name": "y00t #8782",
+    "image": "https://metadata.y00ts.com/y/8781.png",
+    "mintAddress": "ALrHR7wEeK23BLdpZ2nhcJ2q7i17YsBcyoLrrVoFwFPq",
+    "background": "Buttercream"
   },
   {
     "name": "y00t #8789",
@@ -1590,12 +1596,6 @@
     "background": "Bit Of Blue"
   },
   {
-    "name": "y00t #10229",
-    "image": "https://metadata.y00ts.com/y/10228.png",
-    "mintAddress": "FkcX4hX1mgfBx11HzycPSK5LqbSaR76Mnibv96ndTuBK",
-    "background": "Bit Of Blue"
-  },
-  {
     "name": "y00t #10319",
     "image": "https://metadata.y00ts.com/y/10318.png",
     "mintAddress": "B1kgNoYuQTAYC3qhngoFm58A4jZbZaiogx94XQ9xEaHn",
@@ -1636,18 +1636,6 @@
     "image": "https://metadata.y00ts.com/y/10713.png",
     "mintAddress": "E6UiK1MMGnshNqvWD9Qoe1tifp5ap84aWGVtvCT4KM4y",
     "background": "Powder Puff"
-  },
-  {
-    "name": "y00t #10714",
-    "image": "https://metadata.y00ts.com/y/10713.png",
-    "mintAddress": "E6UiK1MMGnshNqvWD9Qoe1tifp5ap84aWGVtvCT4KM4y",
-    "background": "Powder Puff"
-  },
-  {
-    "name": "y00t #10716",
-    "image": "https://metadata.y00ts.com/y/10715.png",
-    "mintAddress": "HZkd5WC41b2yfvwMNZqr13kRjk7AQ3KJMLzMRLs7JV32",
-    "background": "Snow White"
   },
   {
     "name": "y00t #10716",
@@ -1744,6 +1732,12 @@
     "image": "https://metadata.y00ts.com/y/11393.png",
     "mintAddress": "5nxpU9uKDb8m2Yrmtz68MYq7j6xFxh8mGRyAxF82pT97",
     "background": "Antique White"
+  },
+  {
+    "name": "y00t #11458",
+    "image": "https://metadata.y00ts.com/y/11457.png",
+    "mintAddress": "BGRgUChv854jbz376qgJkrLHN95EGPqRZKMjJRDmW3Kf",
+    "background": "Bit Of Blue"
   },
   {
     "name": "y00t #11472",
@@ -1986,6 +1980,12 @@
     "background": "Solitary Star"
   },
   {
+    "name": "y00t #13169",
+    "image": "https://metadata.y00ts.com/y/13168.png",
+    "mintAddress": "G8W8wxwkzfZZz6FEf7Rj3Zqj7NuooWeh3MZJpkFrTB1Q",
+    "background": "Cannoli Cream"
+  },
+  {
     "name": "y00t #13220",
     "image": "https://metadata.y00ts.com/y/13219.png",
     "mintAddress": "7JXH7LNfhQQso9goJgVcCdAUWypierbhHhvC2n8vFcGy",
@@ -1996,12 +1996,6 @@
     "image": "https://metadata.y00ts.com/y/13282.png",
     "mintAddress": "GFCUzbVUPLFCbu9ANvKrzUc8CvL8kvRsnx52dznMXq7B",
     "background": "Solitary Star"
-  },
-  {
-    "name": "y00t #13300",
-    "image": "https://metadata.y00ts.com/y/13299.png",
-    "mintAddress": "2PvReVhxHoWm1sm2bQ7HdfnZWEXoWZiitvUyM2YiS6yb",
-    "background": "Vanilla Ice"
   },
   {
     "name": "y00t #13300",
@@ -2122,6 +2116,12 @@
     "image": "https://metadata.y00ts.com/y/14266.png",
     "mintAddress": "9NEgKBQqLHRTC2fuoV8T1s6iMSbU9Soy2G13yLKhqaHq",
     "background": "Powder Puff"
+  },
+  {
+    "name": "y00t #14286",
+    "image": "https://metadata.y00ts.com/y/14285.png",
+    "mintAddress": "9DYCny1T7D8vm1jH5Kh5tU5K6Rsf8Yc7S7q5Wc2WUFmh",
+    "background": "Buttercream"
   },
   {
     "name": "y00t #14300",
