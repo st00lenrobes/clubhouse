@@ -79,12 +79,6 @@
   },
   {
     "name": "y00t #????",
-    "image": "https://static.y00ts.com/unminted/e7e799a3-4bf4-4673-b556-c8fbfce74d01.png",
-    "mintAddress": "",
-    "background": "Buttercream"
-  },
-  {
-    "name": "y00t #????",
     "image": "https://static.y00ts.com/unminted/0420be0c-dd79-4a08-900a-ab81ba42c4a0.png",
     "mintAddress": "",
     "background": "Buttercream"
@@ -808,6 +802,12 @@
     "image": "https://metadata.y00ts.com/y/4347.png",
     "mintAddress": "7NecveNzGqLqTCZ7bZN9KnbTcSxUci9Bk4SkRPtgFvfc",
     "background": "Phantom Green"
+  },
+  {
+    "name": "y00t #4354",
+    "image": "https://metadata.y00ts.com/y/4353.png",
+    "mintAddress": "kt9yBgWSrfUpSBR6sJ9mqJKbaZ9V9rro5T6HZ3Hd7MR",
+    "background": "Buttercream"
   },
   {
     "name": "y00t #4360",
